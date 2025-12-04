@@ -3,3 +3,4 @@ another bug fixed
 third bug fixed
 add now 
 fix for file3
+fix for purple
