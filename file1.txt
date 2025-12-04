@@ -1,5 +1,1 @@
 bug fixed
-another bug fixed
-third bug fixed
-add now 
-fix for file3
